@@ -110,4 +110,5 @@ This deployment enables **edge device compatibility**, **on-demand predictions**
 ## 📎 License
 
 This project is for educational and research purposes.
-"""
+
+---
