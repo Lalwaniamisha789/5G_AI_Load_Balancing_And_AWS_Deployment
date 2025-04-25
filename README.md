@@ -1,6 +1,3 @@
-# Save the README content to a file named README.md
-
-readme_content = """
 # 5G Traffic Prediction Using Machine Learning and Cloud Integration
 
 ## 🚀 Overview
